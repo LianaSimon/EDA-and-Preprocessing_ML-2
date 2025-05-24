@@ -122,6 +122,39 @@
 
   ![image](https://github.com/user-attachments/assets/ffb04c09-e2bb-41ee-839c-197dae328ca1)
 
-  ![image](https://github.com/user-attachments/assets/f7acfbdb-e3d0-45f4-b90f-e7959ecb333c)
+  ![image](https://github.com/user-attachments/assets/a0b70b48-b237-442c-8177-14af0a3b7964)
 
 
+
+ ### 3. Data Cleaning 
+
+ ![image](https://github.com/user-attachments/assets/b386c786-4a12-417a-bf96-a5c2c53c9b27)
+
+ ![image](https://github.com/user-attachments/assets/53a824ef-45e8-4ab8-9e15-5550b96b3d3e)
+
+ ![image](https://github.com/user-attachments/assets/14d6790f-8358-4af9-9caf-3aafa7d12202)
+
+ ![image](https://github.com/user-attachments/assets/177abbe8-38d8-4dab-918a-e15d3b27511b)
+
+ ![image](https://github.com/user-attachments/assets/ecac731d-39fd-4b77-a7bb-c2984005678f)
+
+ ![image](https://github.com/user-attachments/assets/f807bb1c-5e8e-4420-9aba-60b75c8e48d3)
+
+ ![image](https://github.com/user-attachments/assets/1d93a4e6-07f7-428b-ac53-fbd9be5b9d75)
+
+ ![image](https://github.com/user-attachments/assets/47476576-790e-4c87-b107-00431ec92686)
+
+ ![image](https://github.com/user-attachments/assets/84d99b89-632a-445c-a0ca-ef8287338e3b)
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
