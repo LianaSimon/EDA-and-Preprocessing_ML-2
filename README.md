@@ -142,9 +142,17 @@
 
  ![image](https://github.com/user-attachments/assets/1d93a4e6-07f7-428b-ac53-fbd9be5b9d75)
 
+
+ ### 4. Data Analysis 
+
  ![image](https://github.com/user-attachments/assets/47476576-790e-4c87-b107-00431ec92686)
 
  ![image](https://github.com/user-attachments/assets/84d99b89-632a-445c-a0ca-ef8287338e3b)
+
+
+### 5. Data Encoding
+
+
 
  
 
