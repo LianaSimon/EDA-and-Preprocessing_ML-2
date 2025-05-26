@@ -145,12 +145,45 @@
 
  ### 4. Data Analysis 
 
- ![image](https://github.com/user-attachments/assets/47476576-790e-4c87-b107-00431ec92686)
+![image](https://github.com/user-attachments/assets/a27ac17a-d76d-4a16-a1ec-3124a4156595)
 
- ![image](https://github.com/user-attachments/assets/84d99b89-632a-445c-a0ca-ef8287338e3b)
+![image](https://github.com/user-attachments/assets/759544aa-7e96-4bc9-b9ed-63d93bba41a5)
+
+![image](https://github.com/user-attachments/assets/e88e5589-7af7-4071-b9b8-86b70e829f74)
+
+![image](https://github.com/user-attachments/assets/67a11ac3-1cd7-4fa8-b4f6-09cf54d4511a)
 
 
 ### 5. Data Encoding
+
+![image](https://github.com/user-attachments/assets/90dee695-2ed6-4ee8-b98c-ff8e712154c1)
+
+![image](https://github.com/user-attachments/assets/e2c500ad-66d1-495b-809c-f9d17c53dd9a)
+
+![image](https://github.com/user-attachments/assets/3cb11c6c-0730-4832-a540-eb2e37af36d3)
+![image](https://github.com/user-attachments/assets/c667f107-7b44-4950-9903-47527d0d3eba)
+
+
+### 6. Feature Scaling
+
+![image](https://github.com/user-attachments/assets/7ab36822-1dbe-4082-aa61-5b91f9cccf3d)
+
+![image](https://github.com/user-attachments/assets/51eb5a69-d3e9-4557-afb0-c20b0d25a3ae)
+
+![image](https://github.com/user-attachments/assets/53365db6-3a5b-4baf-82ee-246383d76ee4)
+
+![image](https://github.com/user-attachments/assets/e85b0191-aecf-4ffb-bfb7-41962d21629c)
+
+![image](https://github.com/user-attachments/assets/fb7bd2b9-28b9-4f91-9f18-8f67ec8bcd33)
+
+
+
+
+
+
+
+
+
 
 
 
